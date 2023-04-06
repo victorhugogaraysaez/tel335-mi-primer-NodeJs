@@ -1,0 +1,11 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "Mi Primera Aplicación Hola Mundo",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Víctor Hugo Garay Sáez",
+  "license": "ISC"
+}
